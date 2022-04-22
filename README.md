@@ -6,4 +6,4 @@
 4. Least of squares approximation
 5. Save txt file to be used in Matlab
 6. Create a GUI for visualization in Matlab that analyzes occurances and popularity of the name inputed by the user.
-![]/images/ME_21_project_occurences.jpg
+![](/images/ME_21_project_occurences.jpg)
